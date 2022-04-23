@@ -41,10 +41,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+- Stop
+
+![stop](https://github.com/CatherineLin007/Memory-Game/raw/main/1.gif)
+- Win
+
+![win](https://github.com/CatherineLin007/Memory-Game/raw/main/2.gif)
+- Lost
+
+![lost](https://github.com/CatherineLin007/Memory-Game/raw/main/3.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
