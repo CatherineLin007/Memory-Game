@@ -1,0 +1,107 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,95,180,1) 0%, rgba(0,212,255,1) 100%);
+
+  color: white; 
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+h1{
+  font-family: verdana, arial, sans-serif; 
+  animation: animate 3s infinite linear;
+}
+
+@keyframes animate {
+  30%{
+    transform: rotate(1deg);
+  }
+  70%{
+    transform: rotate(-1deg);
+  }
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: lightgreen;
+}
+
+#button1:active, #button1.lit {
+    background-image: url("https://cdn.glitch.global/269cd476-44a7-4e96-8714-4c56896e2bc4/e0981ca6-30bf-4aea-b64f-cb797428278a.timo-trilk-f9LkMA6nj_g-unsplash.jpg?v=1650666921790");
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+}
+
+#button2 {
+    background: lightblue;
+}
+
+#button2:active, #button2.lit  {
+    background-image: url("https://cdn.glitch.global/269cd476-44a7-4e96-8714-4c56896e2bc4/cb80b551-843c-451c-90a5-d6323defa92c.shaain-ibrahim-k-zTi90rbwE-unsplash.jpg?v=1650667385148");
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+}
+
+#button3 {
+    background: pink;
+}
+
+#button3:active, #button3.lit  {
+    background-image: url("https://cdn.glitch.global/269cd476-44a7-4e96-8714-4c56896e2bc4/29d3bbf2-6aff-4fb3-b639-43667ede52fd.road-ahead-enFLPlMcFuM-unsplash.jpg?v=1650667385376");
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+}
+
+#button4 {
+    background: lightyellow;
+}
+
+#button4:active, #button4.lit  {
+    background-image: url("https://cdn.glitch.global/269cd476-44a7-4e96-8714-4c56896e2bc4/65f2acb9-219e-480d-8887-f74698767d8f.alexandr-rusnac-xsYysUSY5nw-unsplash.jpg?v=1650666921162");
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+}
+
+#button5 {
+    background: #CF9FFF;
+}
+
+#button5:active, #button5.lit  {
+    background-image: url("https://cdn.glitch.global/269cd476-44a7-4e96-8714-4c56896e2bc4/732c0fdf-4eec-4d2e-9a35-3869a0c904bf.aedrian-DpHyBrBFA_c-unsplash.jpg?v=1650666921868");
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+}
