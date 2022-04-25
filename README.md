@@ -77,7 +77,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://usc.zoom.us/rec/share/FxbSHNbCYzwevFLCRX__6eISjoSpGoC_AxgE77JSU3Kgy5juW1nuy-ZsZlhgttWW.Bc9qv_q10ydD0j1y?startTime=1650683387000)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/16G9-V9bT9eyQm9ptT6IIhtffR373YpTr/view)
+(Link is updated after deadline since the original link has technical issues and cannot be accessed. Please kindly find that the time in the recording is April 22nd. Sorry about any inconvenience. The latest update only includes the change of the interview video link, everything else is finished before deadline.)
 
 
 ## License
